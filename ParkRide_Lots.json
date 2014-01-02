@@ -1,0 +1,14 @@
+{"name":"SDEDBO.ParkRide_Lots","type":"FeatureCollection"
+,"features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2960864158377,38.6567342578799]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2859913097202,38.6483941178668]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2993509815198,38.6685682647095]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3023138550569,38.6851851331535]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3058676287211,38.7055858781094]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3068481977998,38.712613629219]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3155434801521,38.7189266977847]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.1753461384904,38.6285475301468]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.1695860960595,38.6278536914748]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3207240472158,38.5928962617329]},"properties":null}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.3372004436461,38.6283364700109]},"properties":null}
+]}
