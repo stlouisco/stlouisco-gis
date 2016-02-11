@@ -1,3 +1,7 @@
+# Not official sources  
+These geojson files are examples only and are not maintained nor official sources.  
+To obtain geographic information from St Louis County, contact the [GIS Service Center](http://gis.stlouisco.com/gisgallery/) at gis@stlouisco.com  
+Or you can also access the [St Louis County GIS Open Data website](http://openstlco.stlcogis.opendata.arcgis.com/)  
 
 # stlouisco-gis
 The examples here rely on the demo at (http://koop.dc.esri.com)  
